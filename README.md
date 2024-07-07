@@ -6,7 +6,10 @@
   <b>BinomialHeap</b>
 </p>
 
-<b> BlackBox </b> 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <b> BlackBox </b>
+</div>
+
 <b> HashTable </b> 
 <b> Huffman </b> 
 Кодирование Хаффмана (D. A. Huffman) относится к префиксному кодированию, позволяющему минимизировать длину текста за счёт того, что различные символы кодируются различным числом битов.Напомним процесс построения кода.
