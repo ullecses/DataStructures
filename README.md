@@ -1,5 +1,7 @@
 <b> BinaryHeap </b> 
-
+<p style="text-align: center;">
+  <b>Текст в жирном шрифте</b>
+</p>
 <b> BinomialHeap </b> 
 <b> BlackBox </b> 
 <b> HashTable </b> 
